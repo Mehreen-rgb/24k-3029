@@ -1,0 +1,10 @@
+START
+INPUT number 1
+INPUT number 2
+INPUT operator "+" or "-"
+IF calculator=number 1+number 2 THEN
+    DISPLAY "calculator only does + operations"
+ELSE
+IF calculator=number 1+number 2 THEN
+    DISPLAY "calculator only does - operations"
+END
