@@ -1,0 +1,10 @@
+START
+INPUT number 1
+INPUT number 2
+IF number 1>number 2 and number 1>number 2 THEN
+    DISPLAY "number 1 is the maximum number"
+IF number 2>number 1 and number 2>number 3 THEN
+    DISPLAY "number 2 is maximum number"
+IF number 3>number 2 and number 3>number 1 THEN
+     DISPLAY "number 3 is maximum number"
+END
