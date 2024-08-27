@@ -1,0 +1,13 @@
+enter the first number "a"
+enter the second number "b"
+enter all the operators (+,-,*,/,%)
+set choice is equal to plus
+add a and b,print "sum"
+set choice is equal to minus
+subtract a and b,print "result"
+set choice is equal to multiplication
+multiply a and b,print "product"
+set choice is equal to division
+divide a and b,print "result"
+set choice is equal to modulus
+divide a and b,print "remainder"
