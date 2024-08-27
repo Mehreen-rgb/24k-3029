@@ -1,0 +1,8 @@
+START
+Enter number 1
+Enter number 2
+set to number 1/number 2=n
+display the answer
+if n/2=n,display "even"
+if n/2=n/2,display "odd"
+
